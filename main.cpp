@@ -4,6 +4,7 @@
  *  main.cpp
  *  Based on "Drawing plain and deformed grids in OpenGL"
  */
+//nihao
 
 #define GLEW_STATIC
 
